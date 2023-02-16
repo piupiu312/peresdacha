@@ -1,0 +1,15 @@
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\bin\Debug\PracticalWork3.exe.config
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\bin\Debug\PracticalWork3.exe
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\bin\Debug\PracticalWork3.pdb
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\obj\Debug\PracticalWork3.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\obj\Debug\PracticalWork3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\obj\Debug\PracticalWork3.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\obj\Debug\PracticalWork3.exe
+C:\Users\Den\source\repos\PracticalWork3\PracticalWork3\obj\Debug\PracticalWork3.pdb
+C:\Users\diman\Downloads\PracticalWork3-main\PracticalWork3-main\PracticalWork3\bin\Debug\PracticalWork3.exe.config
+C:\Users\diman\Downloads\PracticalWork3-main\PracticalWork3-main\PracticalWork3\bin\Debug\PracticalWork3.exe
+C:\Users\diman\Downloads\PracticalWork3-main\PracticalWork3-main\PracticalWork3\bin\Debug\PracticalWork3.pdb
+C:\Users\diman\Downloads\PracticalWork3-main\PracticalWork3-main\PracticalWork3\obj\Debug\PracticalWork3.csproj.AssemblyReference.cache
+C:\Users\diman\Downloads\PracticalWork3-main\PracticalWork3-main\PracticalWork3\obj\Debug\PracticalWork3.csproj.CoreCompileInputs.cache
+C:\Users\diman\Downloads\PracticalWork3-main\PracticalWork3-main\PracticalWork3\obj\Debug\PracticalWork3.exe
+C:\Users\diman\Downloads\PracticalWork3-main\PracticalWork3-main\PracticalWork3\obj\Debug\PracticalWork3.pdb

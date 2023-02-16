@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tadzi5Jlz+PqxzQ7dxxEijnxQPNGez9EOEWU0wISAdgG52ysYCQbq4QCBSckTh8FiznP9SmY6F9J4oaANjVEyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diman\\source\\repos\\n6\\n6\\n6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diman\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\diman\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\diman\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

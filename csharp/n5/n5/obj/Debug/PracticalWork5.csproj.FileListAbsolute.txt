@@ -1,0 +1,8 @@
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\bin\Debug\PracticalWork5.exe.config
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\bin\Debug\PracticalWork5.exe
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\bin\Debug\PracticalWork5.pdb
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\obj\Debug\PracticalWork5.csproj.AssemblyReference.cache
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\obj\Debug\PracticalWork5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\obj\Debug\PracticalWork5.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\obj\Debug\PracticalWork5.exe
+C:\Users\Den\source\repos\PracticalWork5\PracticalWork5\obj\Debug\PracticalWork5.pdb
